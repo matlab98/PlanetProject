@@ -1,0 +1,11 @@
+.svg {
+    color: rgb(0,0,0)
+}
+.heart{
+    color: #e25555;
+}
+
+.image{
+    max-width: 50px;
+    max-height: 50px;
+}
